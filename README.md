@@ -12,7 +12,6 @@ How to make the code work:
 4. I used a lot of colors and different images
 5. For errors or question please write an issue or a comment
 
-
 How the app work:
 6. After you run the app, read the text from the Welcome screen
 7. Push the Start button to start the quiz
