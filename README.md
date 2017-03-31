@@ -1,3 +1,6 @@
+I updated the archive. I had some problemes. Plase write at the Issue if you find something wrong.
+
+
 # MathQuizApp
 this is an application with  simpe math question 
 
